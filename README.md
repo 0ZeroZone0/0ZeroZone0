@@ -8,6 +8,17 @@
 
 안녕하세요 저는 개발자 공존입니다.
 
+## 📬 Contact 📬
+<div>
+    <a href="https://zerozone.oopy.io/">
+        <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="mailto:00zero0zone00@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+</div>
+
+
 ## ✨ Tech Stack ✨
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -36,15 +47,6 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </div>
 
-## 📬 Contact 📬
-<div>
-    <a href="https://zerozone.oopy.io/">
-        <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
-    <a href="mailto:00zero0zone00@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-</div>
 
 ## 📊 GitHub Stats Card 📊
 <div>
