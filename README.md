@@ -60,3 +60,13 @@
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0ZeroZone0&theme=radical" alt="GitHub Streak Stats" />
 </div>
+
+## 🐱 Git Animal 🐶
+![](./profile-3d-contrib/profile-green-animate.svg)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/0ZeroZone0"
+  width="600"
+  height="300"
+/>
+</a>
